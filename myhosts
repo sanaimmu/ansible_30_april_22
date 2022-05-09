@@ -5,9 +5,3 @@
 172.31.44.46
 172.31.19.23
 
-[mywebservers:vars]
-myvar=value
-mywebpackonubuntu= apache2
-mywebpackonredhat= httpd
-myjavapackonubuntu: openjdk-8-jre
-myjavapackonredhat: java-1.8.0-openjdk
